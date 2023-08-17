@@ -12,5 +12,8 @@ dependencies:
   http: ^0.13.0
   csv:
   template_string:
+    git:
+      url: https://github.com/Mayb3Nots/flutter_sheet_localization
+      path: template_string
   localization_builder: 
     path: ../

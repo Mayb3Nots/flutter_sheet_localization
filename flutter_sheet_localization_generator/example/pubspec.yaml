@@ -18,6 +18,9 @@ environment:
 
 dependencies:
   flutter_sheet_localization:
+    git:
+      url: https://github.com/Mayb3Nots/flutter_sheet_localization
+      path: flutter_sheet_localization
   flutter_localizations:
     sdk: flutter
   flutter:
