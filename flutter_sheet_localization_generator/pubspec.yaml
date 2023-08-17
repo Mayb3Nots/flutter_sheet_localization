@@ -23,7 +23,7 @@ dependencies:
       url: https://github.com/Mayb3Nots/flutter_sheet_localization
       path: flutter_sheet_localization
   build: ^2.0.0
-  analyzer: ^6.2.0
+  analyzer: ^4.6.0 <6.0.0
   collection: ^1.15.0
   intl: ^0.18.0
   localization_builder:
